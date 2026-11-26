@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="219" height="48" viewBox="0 0 219 48" role="img" aria-label="Book a 30-min call">
-  <rect x=".5" y=".5" width="218" height="47" rx="23.5" fill="#4ADE80" stroke="#4ADE80"/>
-  <g transform="translate(20 12)"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="#0A0C0B" stroke-width="1.8"/><path stroke="#0A0C0B" stroke-width="1.8" stroke-linecap="round" d="M3.5 10h17M8 3v4M16 3v4"/></g>
-  <text x="52" y="30" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0A0C0B">Book a 30-min call</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="48" viewBox="0 0 222 48" role="img" aria-label="Book a 30-min call">
+<title>Book a 30-min call</title>
+<style>
+  .rise { opacity:0; animation: rise .9s cubic-bezier(.23,1,.32,1) forwards; }
+  @keyframes rise { from { opacity:0; transform: translateY(14px); } to { opacity:1; transform:none; } }
+  .fade { opacity:0; animation: fade 1.2s ease forwards; }
+  @keyframes fade { to { opacity:1; } }
+  .blink { animation: blink 1.4s steps(2) infinite; }
+  @keyframes blink { 50% { opacity:.2; } }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: .01s !important; animation-iteration-count: 1 !important; animation-delay: 0s !important; }
+    .rise, .fade { opacity:1; }
+  }
+.sh { animation: sh 3.6s cubic-bezier(.77,0,.175,1) infinite; } @keyframes sh { 0%,60% { transform: translateX(0) skewX(-20deg); } 100% { transform: translateX(342px) skewX(-20deg); } }</style>
+<defs><clipPath id="b"><rect width="223" height="48" rx="24"/></clipPath></defs>
+<g clip-path="url(#b)"><rect width="223" height="48" fill="#caff45"/><rect class="sh" x="-60" y="0" width="40" height="48" fill="#ffffff" opacity=".35" transform="skewX(-20)"/></g>
+<rect x=".5" y=".5" width="222" height="47" rx="23.5" fill="none" stroke="#caff45"/>
+<g transform="translate(22 12)"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="#07110d" stroke-width="1.9"/><path stroke="#07110d" stroke-width="1.9" stroke-linecap="round" d="M3.5 10h17M8 3v4M16 3v4"/></g>
+<text x="54" y="30" font-family="'Inter Tight', 'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="650" fill="#07110d">Book a 30-min call</text>
 </svg>

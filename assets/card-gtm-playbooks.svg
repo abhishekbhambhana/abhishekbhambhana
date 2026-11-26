@@ -1,11 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="590" height="196" viewBox="0 0 590 196" role="img" aria-label="gtm-playbooks: 0 to 1 outbound for IT and SaaS: ICP, cold email, LinkedIn, discovery calls, and the weekly numbers.">
-  <style>.a{transition:all .2s}.ar{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(4px)}}@media (prefers-reduced-motion:reduce){.ar{animation:none}}</style>
-  <rect width="590" height="196" rx="16" fill="#111513"/>
-  <rect x=".5" y=".5" width="589" height="195" rx="15.5" fill="none" stroke="#1F2723"/>
-  <rect x="0" y="0" width="4" height="196" rx="2" fill="#4ADE80" opacity=".9"/>
-  <text x="28" y="40" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2" fill="#4ADE80">PLAYBOOKS</text>
-  <text x="28" y="70" font-family="Fraunces, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-weight="700" font-size="25" fill="#F2F4F3">gtm-playbooks</text>
-  <g class="ar"><path d="M548 56l10 10-10 10M538 66h20" stroke="#8A948F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="28" y="98" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#C9D0CC">0 to 1 outbound for IT and SaaS: ICP, cold email,</text><text x="28" y="120" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#C9D0CC">LinkedIn, discovery calls, and the weekly numbers.</text>
-  <rect x="28" y="146" width="84" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="70" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">playbooks</text><rect x="120" y="146" width="39" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="140" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">b2b</text><rect x="167" y="146" width="77" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="206" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">outbound</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="590" height="210" viewBox="0 0 590 210" role="img" aria-label="gtm-playbooks: 0 to 1 outbound for IT &amp; SaaS: ICP, cold email, LinkedIn, discovery calls, weekly scorecard.">
+<title>gtm-playbooks: 0 to 1 outbound for IT &amp; SaaS: ICP, cold email, LinkedIn, discovery calls, weekly scorecard.</title>
+<style>
+  .rise { opacity:0; animation: rise .9s cubic-bezier(.23,1,.32,1) forwards; }
+  @keyframes rise { from { opacity:0; transform: translateY(14px); } to { opacity:1; transform:none; } }
+  .fade { opacity:0; animation: fade 1.2s ease forwards; }
+  @keyframes fade { to { opacity:1; } }
+  .blink { animation: blink 1.4s steps(2) infinite; }
+  @keyframes blink { 50% { opacity:.2; } }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: .01s !important; animation-iteration-count: 1 !important; animation-delay: 0s !important; }
+    .rise, .fade { opacity:1; }
+  }
+.arr { animation: nudge 2.6s cubic-bezier(.77,0,.175,1) infinite; } @keyframes nudge { 50% { transform: translate(3px,-3px); } }</style>
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#294032"/></pattern>
+<clipPath id="fr"><rect width="590" height="210" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#fr)">
+<rect width="590" height="210" fill="#07110d"/>
+<rect width="590" height="210" fill="url(#dots)" opacity=".55"/>
+
+</g>
+<rect x=".5" y=".5" width="589" height="209" rx="19.5" fill="none" stroke="#1d3127"/>
+<text x="34" y="46" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#caff45">PLAYBOOKS</text>
+<text x="34" y="84" font-family="'Inter Tight', 'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="750" font-size="28" letter-spacing="-.6" fill="#f4f5ef">gtm-playbooks</text>
+<g class="arr"><circle cx="540" cy="58" r="20" fill="#0f1d17" stroke="#294032"/>
+<path d="M533 65l14-14M536 51h11v11" stroke="#caff45" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="34" y="118" font-family="'Inter Tight', 'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#c7d4cc">0 to 1 outbound for IT &amp; SaaS: ICP, cold email,</text><text x="34" y="140" font-family="'Inter Tight', 'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#c7d4cc">LinkedIn, discovery calls, weekly scorecard.</text><rect x="34" y="158" width="40" height="26" rx="13" fill="#0f1d17" stroke="#294032"/><text x="54" y="175" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8eaa9a">gtm</text><rect x="82" y="158" width="77" height="26" rx="13" fill="#0f1d17" stroke="#294032"/><text x="121" y="175" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8eaa9a">outbound</text><rect x="167" y="158" width="40" height="26" rx="13" fill="#0f1d17" stroke="#294032"/><text x="188" y="175" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8eaa9a">b2b</text>
 </svg>

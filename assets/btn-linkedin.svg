@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="133" height="48" viewBox="0 0 133 48" role="img" aria-label="LinkedIn">
-  <rect x=".5" y=".5" width="132" height="47" rx="23.5" fill="#111513" stroke="#1F2723"/>
-  <g transform="translate(20 12)"><path fill="#4ADE80" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.75h4v11H3zm6.5 0h3.8v1.5h.06c.53-1 1.83-2.06 3.77-2.06 4.03 0 4.77 2.65 4.77 6.1v5.46h-4v-4.84c0-1.16-.02-2.64-1.61-2.64-1.61 0-1.86 1.26-1.86 2.56v4.92h-4z"/></g>
-  <text x="52" y="30" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F2F4F3">LinkedIn</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="48" viewBox="0 0 135 48" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>
+  .rise { opacity:0; animation: rise .9s cubic-bezier(.23,1,.32,1) forwards; }
+  @keyframes rise { from { opacity:0; transform: translateY(14px); } to { opacity:1; transform:none; } }
+  .fade { opacity:0; animation: fade 1.2s ease forwards; }
+  @keyframes fade { to { opacity:1; } }
+  .blink { animation: blink 1.4s steps(2) infinite; }
+  @keyframes blink { 50% { opacity:.2; } }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: .01s !important; animation-iteration-count: 1 !important; animation-delay: 0s !important; }
+    .rise, .fade { opacity:1; }
+  }
+</style>
+<defs><clipPath id="b"><rect width="136" height="48" rx="24"/></clipPath></defs>
+<g clip-path="url(#b)"><rect width="136" height="48" fill="#0b1512"/></g>
+<rect x=".5" y=".5" width="135" height="47" rx="23.5" fill="none" stroke="#294032"/>
+<g transform="translate(22 12)"><path fill="#caff45" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.75h4v11H3zm6.5 0h3.8v1.5h.06c.53-1 1.83-2.06 3.77-2.06 4.03 0 4.77 2.65 4.77 6.1v5.46h-4v-4.84c0-1.16-.02-2.64-1.61-2.64-1.61 0-1.86 1.26-1.86 2.56v4.92h-4z"/></g>
+<text x="54" y="30" font-family="'Inter Tight', 'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="650" fill="#f4f5ef">LinkedIn</text>
 </svg>
