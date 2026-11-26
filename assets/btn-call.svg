@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="219" height="48" viewBox="0 0 219 48" role="img" aria-label="Book a 30-min call">
+  <rect x=".5" y=".5" width="218" height="47" rx="23.5" fill="#4ADE80" stroke="#4ADE80"/>
+  <g transform="translate(20 12)"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="#0A0C0B" stroke-width="1.8"/><path stroke="#0A0C0B" stroke-width="1.8" stroke-linecap="round" d="M3.5 10h17M8 3v4M16 3v4"/></g>
+  <text x="52" y="30" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0A0C0B">Book a 30-min call</text>
+</svg>

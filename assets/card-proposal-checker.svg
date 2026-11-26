@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="196" viewBox="0 0 590 196" role="img" aria-label="proposal-checker: Grades a proposal on hook, proof, ask and length, and flags the lines clients skip.">
+  <style>.a{transition:all .2s}.ar{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(4px)}}@media (prefers-reduced-motion:reduce){.ar{animation:none}}</style>
+  <rect width="590" height="196" rx="16" fill="#111513"/>
+  <rect x=".5" y=".5" width="589" height="195" rx="15.5" fill="none" stroke="#1F2723"/>
+  <rect x="0" y="0" width="4" height="196" rx="2" fill="#4ADE80" opacity=".9"/>
+  <text x="28" y="40" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2" fill="#4ADE80">LIBRARY</text>
+  <text x="28" y="70" font-family="Fraunces, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-weight="700" font-size="25" fill="#F2F4F3">proposal-checker</text>
+  <g class="ar"><path d="M548 56l10 10-10 10M538 66h20" stroke="#8A948F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="28" y="98" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#C9D0CC">Grades a proposal on hook, proof, ask and length,</text><text x="28" y="120" font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#C9D0CC">and flags the lines clients skip.</text>
+  <rect x="28" y="146" width="62" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="59" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">python</text><rect x="98" y="146" width="39" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="117" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">cli</text><rect x="144" y="146" width="84" height="26" rx="13" fill="none" stroke="#1F2723"/><text x="187" y="163" text-anchor="middle" font-family="'Geist Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" fill="#8A948F">zero deps</text>
+</svg>

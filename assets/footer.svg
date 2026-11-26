@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="the hunt is won before the strike.">
+  <style>.w{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 2.4s ease forwards .3s}@keyframes draw{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.w{animation:none;stroke-dashoffset:0}}</style>
+  <path class="w" d="M380 92 C 520 104, 680 104, 820 90" fill="none" stroke="#4ADE80" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  <text x="600" y="66" text-anchor="middle" font-family="Fraunces, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-style="italic" font-size="30" fill="#9AA39F">the hunt is won before the strike.</text>
+</svg>
