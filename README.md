@@ -1,7 +1,7 @@
 <a href="https://abhishekbhambhana.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ accounts managed, 1,000+ contracts closed, $1.5M+ won for clients.">
+    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ accounts managed, 1,000+ contracts closed, $1.5M+ won for clients. Example of UGD Scout scoring an Upwork job 87 out of 100.">
   </picture>
 </a>
 
@@ -36,6 +36,11 @@ Some teams would rather run it themselves. For them I do profile audits, Upwork 
 ## Go to market
 
 From December 2024 to March 2025 I worked as a fractional head of sales for five early startups. Each one needed the same first things: a clear picture of who buys, a cold email and LinkedIn routine someone could actually keep up, and a discovery call that ends with a next step. Across the five, leads went up by about half and sales cycles got 30 to 45% shorter. One of them grew revenue 5x.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/results-dark.svg">
+  <img src="assets/results-light.svg" width="100%" alt="Go to market results across five startups: leads up 50%, sales cycles 30 to 45% shorter, one startup grew revenue 5x">
+</picture>
 
 **UnitPay.** I reported to the founder, Vijay Gorfad, and worked on growth and sales end to end: which channels deserved our time, how deals moved from first reply to signed contract, and the investor side, meaning the pitch story, the decks and the conversations around them. Upwork was the main channel. In Vijay's words, the account grew past $100K in revenue.
 
