@@ -5,6 +5,11 @@
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/niches-dark.svg">
+  <img src="assets/niches-light.svg" width="100%" alt="Upwork niches managed: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo">
+</picture>
+
 ### Hi, I'm Abhishek Bhambhana.
 
 I run **[Upwork Growth Desk](https://upgrowthdesk.com)** from Ahmedabad, India. Since 2019 I've managed more than 50 Upwork accounts and closed over 1,000 contracts, worth $1.5M+ to the freelancers and agencies I work for. Alongside that I've done go to market and tech sales for startups, including the funding side at MonkeyBox and growth and investor work at UnitPay.
@@ -20,6 +25,11 @@ Most of my week goes here. Upwork Growth Desk runs Upwork accounts for developer
 We choose which jobs to bid on, write each proposal for the client who will read it, take the interviews and follow ups, and keep a close eye on Job Success so one bad contract doesn't undo a year of good ones. Every account gets a pipeline report each week. It's a flat monthly fee with no commission on what you win, and if an account has no real traction by month three, months four and five are free.
 
 Some teams would rather run it themselves. For them I do profile audits, Upwork SEO, title and overview rewrites, portfolio plans, and a proposal framework their bidders can follow.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
+  <img src="assets/process-light.svg" width="100%" alt="How an account wins at Upwork Growth Desk: score the job, write to one client, interview, close, protect Job Success">
+</picture>
 
 <sub>Accounts I manage today: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo.</sub>
 
