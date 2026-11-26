@@ -56,11 +56,11 @@ The rules I use every day, written as code and docs you can run or copy.
 <img src="assets/sec-connect.svg" width="100%" alt="05 Connect"/>
 
 <p>
-  <a href="https://cal.com/abhishek-bhambhana-40tn49/30-min-of-upwork-growth"><img src="assets/btn-call.svg" height="48" alt="Book a 30-min call"/></a>&nbsp;
-  <a href="https://linkedin.com/in/abhishek-upwork-growth"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:abhishekbhambhana01@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email"/></a>&nbsp;
-  <a href="https://abhishekup.work"><img src="assets/btn-site.svg" height="48" alt="abhishekup.work"/></a>&nbsp;
-  <a href="https://upgrowthdesk.com"><img src="assets/btn-ugd.svg" height="48" alt="upgrowthdesk.com"/></a>
+  <a href="https://cal.com/abhishek-bhambhana-40tn49/30-min-of-upwork-growth"><img src="assets/btn-call.svg" height="40" alt="Book a 30-min call"/></a>&nbsp;
+  <a href="https://linkedin.com/in/abhishek-upwork-growth"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:abhishekbhambhana01@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"/></a>&nbsp;
+  <a href="https://abhishekup.work"><img src="assets/btn-site.svg" height="40" alt="abhishekup.work"/></a>&nbsp;
+  <a href="https://upgrowthdesk.com"><img src="assets/btn-ugd.svg" height="40" alt="upgrowthdesk.com"/></a>
 </p>
 
 Hiring on Upwork, or freelancing there and stuck at a few invites a month? Book the call and bring your profile link.
