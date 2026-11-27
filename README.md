@@ -1,7 +1,7 @@
 <a href="https://abhishekbhambhana.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ accounts managed, 1,000+ contracts closed, $1.5M+ won for clients. Example of UGD Scout scoring an Upwork job 87 out of 100.">
+    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ accounts managed, 1,000+ contracts closed, $1.5M+ won for clients. Example job scored 87 out of 100.">
   </picture>
 </a>
 
@@ -50,15 +50,6 @@ I started as a business development intern at Jarviot Technologies in 2019 and w
 
 **MonkeyBox** (Bengaluru, Oct 2021 to Mar 2024). MonkeyBox makes healthy lunches for school kids. Blume Ventures led its seed round in 2016 and came back to lead its pre Series A, where NB Ventures, Nspira and a group of angel investors joined in. I worked on business development, product and growth, and much of my time went to funding: building relationships with investors and VCs, working on the pitch, and working through negotiations as the company pushed toward $10M+ in funding.
 <sub>Funding history: [TechStory](https://techstory.in/monkeybox-funding-29112016/) · [The News Minute](https://www.thenewsminute.com/atom/foodtech-startup-monkeybox-raises-pre-series-funding-blume-ventures-and-others-65554) · [DealStreetAsia](https://www.dealstreetasia.com/stories/india-dealbook-monkeybox-iphawk-raise-funding-78531) · [Entrackr](https://entrackr.com/?p=2763)</sub>
-
-## Tools I built for the desk
-
-I build most of our internal tooling myself, with Claude Code and AI agents. Each one exists because someone was doing the same thing by hand every day.
-
-- **UGD Scout**: a Chrome extension that scores a live Upwork job before anyone spends a Connect on it.
-- **UGD Autopilot**: takes a job post to a reviewed proposal draft. A panel of simulated clients reads it before a person does.
-- **RAINMAKER**: our LinkedIn client acquisition system.
-- **Lead automation**: lead capture across several accounts, with webhook enrichment.
 
 ## Products I was part of
 
