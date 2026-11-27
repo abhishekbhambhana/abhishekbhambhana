@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Scope-less token: reads public data plus anonymized private contribution counts only
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS }}
           filename: assets/metrics-calendar.svg
           base: ""
           config_timezone: Asia/Kolkata
