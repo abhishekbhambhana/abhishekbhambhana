@@ -83,7 +83,14 @@ Small, plain versions of the rules I use every day.
 | [gtm-playbooks](https://github.com/abhishekbhambhana/gtm-playbooks) | Outbound playbooks for IT services and SaaS: ICP, cold email, LinkedIn, discovery. |
 | [upwork-growth-toolkit](https://github.com/abhishekbhambhana/upwork-growth-toolkit) | Profile, Upwork SEO, proposals, pricing, Job Success and retainer templates. |
 
-<img src="assets/metrics-calendar.svg" width="100%" alt="Abhishek Bhambhana GitHub contribution calendar for the past year, updated daily">
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhishekbhambhana&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=131209&stroke=2a2a1e&border=2a2a1e&ring=CAFF45&fire=CAFF45&currStreakNum=F7F7F4&sideNums=F7F7F4&currStreakLabel=CAFF45&sideLabels=A3A394&dates=8a8a7a">
+  <img src="https://streak-stats.demolab.com/?user=abhishekbhambhana&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=F7F7F4&stroke=d9d9d0&border=d9d9d0&ring=2F6A3A&fire=2F6A3A&currStreakNum=131209&sideNums=131209&currStreakLabel=2F6A3A&sideLabels=55554a&dates=7a7a6e" width="100%" alt="Abhishek Bhambhana GitHub streak: total contributions, current streak and longest streak">
+</picture>
+
+<img src="assets/metrics-calendar.svg" width="49%" alt="Abhishek Bhambhana GitHub contribution calendar for the past year, updated daily"> <img src="assets/metrics-languages.svg" width="49%" alt="Most used languages across Abhishek Bhambhana's public repositories">
 
 ## Questions people ask
 
@@ -100,8 +107,8 @@ Business development, product and growth from October 2021 to March 2024. He bui
 Growth and sales, reporting to founder Vijay Gorfad: channel choice, the sales cycle, and investor pitches and decks.
 
 **How do I work with him?**
-[Book a 30 minute call](https://cal.com/abhishek-bhambhana-40tn49/30-min-of-upwork-growth) or send a message on [LinkedIn](https://linkedin.com/in/abhishek-upwork-growth).
+[Book a 30 minute call](https://cal.com/upgrowthdesk/upwork-growth-discussion-x-ugd) or send a message on [LinkedIn](https://linkedin.com/in/abhishek-upwork-growth).
 
 <br>
 
-**[Book a 30 minute call](https://cal.com/abhishek-bhambhana-40tn49/30-min-of-upwork-growth)** · [LinkedIn](https://linkedin.com/in/abhishek-upwork-growth) · [upgrowthdesk.com](https://upgrowthdesk.com) · [abhishekup.work](https://abhishekup.work) · [abhishekbhambhana.github.io](https://abhishekbhambhana.github.io)
+**[Book a 30 minute call](https://cal.com/upgrowthdesk/upwork-growth-discussion-x-ugd)** · [LinkedIn](https://linkedin.com/in/abhishek-upwork-growth) · [upgrowthdesk.com](https://upgrowthdesk.com) · [abhishekup.work](https://abhishekup.work) · [abhishekbhambhana.github.io](https://abhishekbhambhana.github.io)
