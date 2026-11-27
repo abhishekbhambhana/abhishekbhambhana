@@ -83,6 +83,8 @@ Small, plain versions of the rules I use every day.
 | [gtm-playbooks](https://github.com/abhishekbhambhana/gtm-playbooks) | Outbound playbooks for IT services and SaaS: ICP, cold email, LinkedIn, discovery. |
 | [upwork-growth-toolkit](https://github.com/abhishekbhambhana/upwork-growth-toolkit) | Profile, Upwork SEO, proposals, pricing, Job Success and retainer templates. |
 
+<img src="assets/metrics-calendar.svg" width="100%" alt="Abhishek Bhambhana GitHub contribution calendar for the past year, updated daily">
+
 ## Questions people ask
 
 **Who is Abhishek Bhambhana?**
