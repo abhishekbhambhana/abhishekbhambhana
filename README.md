@@ -1,18 +1,18 @@
 <a href="https://abhishekbhambhana.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ accounts managed, 1,000+ contracts closed, $1.5M+ won for clients. Example job scored 87 out of 100.">
+    <img src="assets/hero-light.svg" width="100%" alt="Abhishek Bhambhana, Upwork growth consultant and founder of Upwork Growth Desk. On Upwork since 2019, 50+ freelancers and agencies helped, 1,000+ contracts won, $1.5M+ won for clients. Example job scored 87 out of 100.">
   </picture>
 </a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/niches-dark.svg">
-  <img src="assets/niches-light.svg" width="100%" alt="Upwork niches managed: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo">
+  <img src="assets/niches-light.svg" width="100%" alt="Upwork niches I work with: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo">
 </picture>
 
 ### Hi, I'm Abhishek Bhambhana.
 
-I run **[Upwork Growth Desk](https://upgrowthdesk.com)** from Ahmedabad, India. Since 2019 I've managed more than 50 Upwork accounts and closed over 1,000 contracts, worth $1.5M+ to the freelancers and agencies I work for. Alongside that I've done go to market and tech sales for startups, including the funding side at MonkeyBox and growth and investor work at UnitPay.
+I run **[Upwork Growth Desk](https://upgrowthdesk.com)** from Ahmedabad, India. Since 2019 I've worked with more than 50 freelancers and agencies on Upwork and helped them win over 1,000 contracts, worth $1.5M+ to the freelancers and agencies I work for. Alongside that I've done go to market and tech sales for startups, including the funding side at MonkeyBox and growth and investor work at UnitPay.
 
 This page is the short version. The longer one lives at **[abhishekbhambhana.github.io](https://abhishekbhambhana.github.io)**.
 
@@ -20,18 +20,18 @@ This page is the short version. The longer one lives at **[abhishekbhambhana.git
 
 ## Upwork growth
 
-Most of my week goes here. Upwork Growth Desk runs Upwork accounts for developers, agencies and designers who would rather do the work than chase it.
+Most of my week goes here. Upwork Growth Desk helps developers, agencies and designers win more of the right work on Upwork, so they can spend their time doing it.
 
-We choose which jobs to bid on, write each proposal for the client who will read it, take the interviews and follow ups, and keep a close eye on Job Success so one bad contract doesn't undo a year of good ones. Every account gets a pipeline report each week. It's a flat monthly fee with no commission on what you win, and if an account has no real traction by month three, months four and five are free.
+We help decide which jobs are worth a bid, shape each proposal around the client who will read it, prepare you for interviews and follow ups, and keep a close eye on Job Success so one bad contract doesn't undo a year of good ones. Every client gets a pipeline report each week. It's a flat monthly fee with no commission on what you win, and if an account has no real traction by month three, months four and five are free.
 
-Some teams would rather run it themselves. For them I do profile audits, Upwork SEO, title and overview rewrites, portfolio plans, and a proposal framework their bidders can follow.
+Some teams would rather run it themselves. For them I do profile audits, Upwork SEO, title and overview rewrites, portfolio plans, and a proposal framework their team can follow.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
-  <img src="assets/process-light.svg" width="100%" alt="How an account wins at Upwork Growth Desk: score the job, write to one client, interview, close, protect Job Success">
+  <img src="assets/process-light.svg" width="100%" alt="How a proposal wins at Upwork Growth Desk: score the job, write to one client, interview, close, protect Job Success">
 </picture>
 
-<sub>Accounts I manage today: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo.</sub>
+<sub>Niches I work with today: MERN, AI and Gen AI, DevOps and AWS, Laravel, WordPress, Shopify, Salesforce, Java and Spring, Flutter, React and Next.js, SaaS, brand and design, Meta Ads, iOS, Odoo.</sub>
 
 ## Go to market
 
@@ -86,10 +86,10 @@ Small, plain versions of the rules I use every day.
 ## Questions people ask
 
 **Who is Abhishek Bhambhana?**
-An Upwork growth consultant based in Ahmedabad, India, and the founder of Upwork Growth Desk. He has worked on Upwork since 2019, managed 50+ accounts and closed 1,000+ contracts worth $1.5M+ for clients, and has worked in go to market and tech sales for startups including UnitPay and MonkeyBox.
+An Upwork growth consultant based in Ahmedabad, India, and the founder of Upwork Growth Desk. He has worked on Upwork since 2019, worked with 50+ freelancers and agencies and helped win 1,000+ contracts worth $1.5M+ for clients, and has worked in go to market and tech sales for startups including UnitPay and MonkeyBox.
 
 **What is Upwork Growth Desk (UpGrowthDesk)?**
-An Upwork account management service at [upgrowthdesk.com](https://upgrowthdesk.com). It chooses jobs, writes proposals, handles interviews and protects Job Success for freelancers and agencies, for a flat monthly fee with no commission.
+An Upwork growth consultancy at [upgrowthdesk.com](https://upgrowthdesk.com). It helps freelancers and agencies pick jobs worth a bid, sharpen proposals, prepare for interviews and protect Job Success, for a flat monthly fee with no commission.
 
 **What did he do at MonkeyBox?**
 Business development, product and growth from October 2021 to March 2024. He built investor and VC relationships and worked on pitches and negotiation as the Blume Ventures backed company worked toward $10M+ in funding.
