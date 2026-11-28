@@ -92,6 +92,11 @@ Small, plain versions of the rules I use every day.
 
 <img src="assets/metrics-calendar.svg" width="49%" alt="Abhishek Bhambhana GitHub contribution calendar for the past year, updated daily"> <img src="assets/metrics-languages.svg" width="49%" alt="Most used languages across Abhishek Bhambhana's public repositories">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekbhambhana/abhishekbhambhana/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/abhishekbhambhana/abhishekbhambhana/output/snake-light.svg" width="100%" alt="Animated snake eating Abhishek Bhambhana's GitHub contribution graph">
+</picture>
+
 ## Questions people ask
 
 **Who is Abhishek Bhambhana?**
