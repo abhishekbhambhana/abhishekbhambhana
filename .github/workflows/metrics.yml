@@ -30,3 +30,15 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_details: percentage
+
+      - name: Website PageSpeed
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS }}
+          filename: assets/metrics-pagespeed.svg
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://abhishekbhambhana.github.io
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED }}
