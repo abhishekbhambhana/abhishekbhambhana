@@ -86,11 +86,9 @@ Small, plain versions of the rules I use every day.
 ### GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhishekbhambhana&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=131209&stroke=2a2a1e&border=2a2a1e&ring=CAFF45&fire=CAFF45&currStreakNum=F7F7F4&sideNums=F7F7F4&currStreakLabel=CAFF45&sideLabels=A3A394&dates=8a8a7a">
-  <img src="https://streak-stats.demolab.com/?user=abhishekbhambhana&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=F7F7F4&stroke=d9d9d0&border=d9d9d0&ring=2F6A3A&fire=2F6A3A&currStreakNum=131209&sideNums=131209&currStreakLabel=2F6A3A&sideLabels=55554a&dates=7a7a6e" width="100%" alt="Abhishek Bhambhana GitHub streak: total contributions, current streak and longest streak">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" width="100%" alt="Abhishek Bhambhana GitHub activity for the last 12 months: 3D contribution calendar with total contributions, active days, longest streak and best day">
 </picture>
-
-<img src="assets/metrics-calendar.svg" width="49%" alt="Abhishek Bhambhana GitHub contribution calendar for the past year, updated daily"> <img src="assets/metrics-languages.svg" width="49%" alt="Most used languages across Abhishek Bhambhana's public repositories">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekbhambhana/abhishekbhambhana/output/snake-dark.svg">

@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-light.svg?color_snake=#131209&color_dots=#E6E6DF,#C9E7A0,#8FC25A,#4E8A3E,#2F6A3A
-            dist/snake-dark.svg?color_snake=#F7F7F4&color_dots=#23221A,#3B4A12,#6B8A1E,#A3CC2E,#CAFF45
+            dist/snake-light.svg?color_snake=#0A0A0A&color_dots=#EDEDE7,#CFE2B6,#93BE74,#558F48,#2F6A3A
+            dist/snake-dark.svg?color_snake=#F2F2EE&color_dots=#1E1D14,#3B4813,#6A8A1E,#9DC92C,#CAFF45
       - name: Publish to output branch
         run: |
           mkdir -p "$RUNNER_TEMP/out" && cp dist/*.svg "$RUNNER_TEMP/out/" && cd "$RUNNER_TEMP/out"
